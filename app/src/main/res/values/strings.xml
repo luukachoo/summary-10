@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">summary 10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main">main</string>
+    <string name="account_number">GE23JG7744036080809503</string>
+    <string name="transfer_internally">Transfer Internally</string>
+    <string name="idk">23$</string>
+    <string name="from">From</string>
+    <string name="send">Send</string>
+    <string name="phone_number">Phone number</string>
+    <string name="personal_number">Personal number</string>
+    <string name="choose">Choose</string>
+    <string name="to">To</string>
+</resources>
